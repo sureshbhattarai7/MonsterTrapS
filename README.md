@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://img.shields.io/github/all-contributors/sureshbhattarai7/MonsterTrapS
 <!--
 **MonsterTrapS/MonsterTrapS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
